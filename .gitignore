@@ -1,3 +1,16 @@
 node_modules 
 dist 
 .env
+.env.local
+
+# Unrelated desktop files
+Atif_Intezar_CV.pdf
+PHOTO.jpeg
+SIGNN.jpeg
+ScoreReport.pdf
+ecertificate.pdf
+search.java
+41/
+PropAgent/
+Cognifyz Technologies/
+ppt.jpeg
